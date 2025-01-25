@@ -3,5 +3,5 @@ projects:
   - dir: .
     autoplan:
       enabled: false
-    apply_requirements: [mergeable, approved, undiverged]
+    # apply_requirements: [mergeable, approved, undiverged]
 automerge: true
