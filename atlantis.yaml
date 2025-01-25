@@ -4,3 +4,4 @@ projects:
     autoplan:
       enabled: false
 automerge: true
+apply_requirements: [approved, mergeable]
